@@ -18,8 +18,8 @@ function openUploadWidget() {
     const category = document.getElementById('image-category').value;
     const slot = document.getElementById('image-slot').value;
 
-    const cloudName = "your_cloud_name"; // **Replace with your actual Cloudinary Cloud Name!**
-    const uploadPreset = "your_upload_preset"; // **Replace with your actual Cloudinary Upload Preset!**
+    const cloudName = "dujlwpbrv"; // **Replace with your actual Cloudinary Cloud Name!**
+    const uploadPreset = "isaac092"; // **Replace with your actual Cloudinary Upload Preset!**
 
     if (!window.cloudinary) {
         console.error("Cloudinary script not loaded!");
