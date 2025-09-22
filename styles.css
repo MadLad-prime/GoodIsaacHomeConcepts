@@ -314,4 +314,5 @@ section {
 section.visible {
     opacity: 1;
     transform: translateY(0);
+
 }
